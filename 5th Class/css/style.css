@@ -1,0 +1,129 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.header-section{
+
+}
+header{
+
+width: 90%;
+
+margin-left: 5%;
+
+padding: 20px 0px;
+
+border-bottom: solid black;
+
+overflow: hidden;
+
+margin-top: 15px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+width: 35%;
+}
+nav{
+  width: 40%;
+  float: right;
+  
+}
+nav ul{
+
+}
+nav ul li{
+float: left;
+margin-left: 30px;
+text-transform: capitalize;
+font-size: 20px;
+color:rgb(32, 32, 165)
+}
+.content_section{width: 55%;margin-left: 20%;text-align: center;padding: 10px;}
+.content_section h1{font-size: 40px;text-transform: capitalize;color: blue;margin-top: 15px;}
+.content_section h2{font-size: 35px;text-transform: capitalize;color: rgb(19, 19, 20);margin-top: 15px;}
+.content_section p{
+
+margin-top: 15px;
+} 
+.content_section img{
+width: 70%;
+}
+.successful{width: 70%;margin-left: 30%;margin: auto;overflow: hidden;text-align: right;margin-top: 10px;}
+.successful_left_content{
+
+width: 40%;
+
+float: left;
+}
+.successful_left_content h1{
+
+font-size: 50px;
+
+color: blue;
+}
+
+.successful_right_content{
+  
+width: 30%;
+  
+float: left;
+  
+font-size: 30px;
+  
+color: blue;
+}
+
+.feature_section{
+  width: 90%;
+  margin: auto;
+  margin-top: 16px;
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+.feature_one{
+  
+width: 30%;
+  
+float: left;
+}
+.feature_two{
+  
+width: 30%;
+  
+float: left;
+  
+margin-left: 7%;
+}
+.feature_three{
+  
+width: 30%;
+  
+float: right;
+}
+footer{
+
+background-color: blue;
+
+text-align: center;
+
+padding: 25px 0;
+}
+footer p{
+
+color: whitesmoke;
+}
+footer p span{
+
+color: gainsboro;
+
+font-size: 20px;
+
+font-weight: 700;
+
+letter-spacing: 3px;
+}
